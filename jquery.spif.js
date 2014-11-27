@@ -34,9 +34,9 @@ $.fn.spif = function( options ) {
 
             if (settings.vector == 'vertical') {
                 bgPos = settings.frame[1] * currentIndex;
-                bgPos = '0px ' + bgPos + 'px';
+                bgPos = '0px ' + -bgPos + 'px';
             } else {
-                bgPos = settings.frame[0] * currentIndex + 'px 0px';
+                bgPos = -settings.frame[0] * currentIndex + 'px 0px';
             }
 
             console.log(bgPos);

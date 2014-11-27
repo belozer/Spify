@@ -40,6 +40,38 @@ $(".animation").spif({
     vector: string    // Position frames in sprite (vertical or horizontal).
                       // Default: vertical
 ```
+
+### Design sprite
+```js
+ _______________________________________
+|         |         |         |         |
+|         |         |         |         |
+|    1    |    2    |    3    |   ...   | // horizontal
+|         |         |         |         |
+|_________|_________|_________|_________|
+
+ _________
+|         |
+|         |
+|    1    |
+|         |
+|_________|
+|         |
+|         |
+|    2    |
+|         |
+|_________|  // vertical
+|         |
+|         |
+|    3    |
+|         |
+|_________|
+|         |
+|         |
+|   ...   |
+|         |
+|_________|
+```
 License
 ------------
 The MIT License (MIT)

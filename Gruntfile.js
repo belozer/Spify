@@ -13,7 +13,7 @@ module.exports = function(grunt) {
                 '<%= pkg.author.name %>; Licensed MIT */\n',
             },
             build: {
-                src: '<%= pkg.name %>.js',
+                src: 'src/<%= pkg.name %>.js',
                 dest: '<%= pkg.name %>.min.js'
             }
         },

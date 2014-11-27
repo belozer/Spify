@@ -1,12 +1,3 @@
-/*
-* jQuery Spif v0.1
-*
-* Copyright (c) 2014 Sergey Belozyorcev
-* http://vk.com/s.belozyorcev/
-*
-* Licensed under MIT
-*
-*/
 (function( $ ){
 
 $.fn.spif = function( options ) {

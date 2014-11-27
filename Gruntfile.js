@@ -20,7 +20,7 @@ module.exports = function(grunt) {
         copy: {
             main: {
                 src: '<%= pkg.name %>.min.js',
-                dest: 'test/js/<%= pkg.name %>.min.js',
+                dest: 'demo/js/<%= pkg.name %>.min.js',
             },
         },
     });

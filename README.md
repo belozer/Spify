@@ -33,9 +33,7 @@ $(".animation").spif({
 
     frame:    array         // Sizes frame [width, height]
 
-
     frames:   int           // Count frames
-                            // Default: 1
 
     /* Extanded */
 

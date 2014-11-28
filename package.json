@@ -3,7 +3,7 @@
   "author": {
       "name" : "Sergey Belozyorcev"
   },
-  "homepage" : "https://github.com/nextdrift/jquery.spif",
+  "homepage" : "https://github.com/belozyorcev/jquery.spif",
   "version": "0.2.0",
   "devDependencies": {
     "grunt": "~0.4.5",

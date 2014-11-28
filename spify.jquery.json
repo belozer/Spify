@@ -1,7 +1,7 @@
 {
-    "name": "spif",
-    "title": "Spif",
-    "description": "Light (spif < 1 Kb) and sample jQuery plugin for sprite animations",
+    "name": "spify",
+    "title": "Spify",
+    "description": "Light (Spify < 2 Kb) and sample jQuery plugin for sprite animations",
     "keywords": [
         "css",
         "sprites",
@@ -11,7 +11,7 @@
     "version": "0.2.0",
     "author": {
         "name": "Sergey Belozyorcev",
-        "url": "https://github.com/belozyorcev/jquery.spif"
+        "url": "https://github.com/belozyorcev/Spify"
     },
     "maintainers": [
         {
@@ -23,10 +23,10 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/belozyorcev/jquery.spif/blob/master/LICENSE-MIT"
+            "url": "https://github.com/belozyorcev/Spify/blob/master/LICENSE-MIT"
         }
     ],
-    "bugs": "https://github.com/belozyorcev/jquery.spif/issues",
+    "bugs": "https://github.com/belozyorcev/Spify/issues",
     "dependencies": {
         "jquery": ">=1.3"
     }

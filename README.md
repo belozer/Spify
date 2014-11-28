@@ -1,4 +1,4 @@
-![alt tag](https://raw.github.com/belozyorcev/jquery.spif/master/img/spif-logo-434x300.png)
+![alt tag](https://raw.github.com/belozyorcev/jquery.spif/master/img/spif-logo-light-434x300.png)
 ### Description
 Light (spif < 1 Kb) and sample jQuery plugin for sprite animations
 

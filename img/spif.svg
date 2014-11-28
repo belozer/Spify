@@ -14,9 +14,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   inkscape:export-filename="/home/sergey/projects/jQuery.spif/spif-logo-434x300.png"
-   inkscape:export-xdpi="89.924255"
-   inkscape:export-ydpi="89.924255"
+   inkscape:export-filename="/home/sergey/projects/jQuery.spif/img/spif-logo-light-434x300.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
    sodipodi:docname="spif.svg">
   <defs
      id="defs4" />
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5240619"
-     inkscape:cx="166.07452"
-     inkscape:cy="103.19031"
+     inkscape:zoom="0.76203095"
+     inkscape:cx="487.76496"
+     inkscape:cy="84.937471"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
      id="layer1"
      transform="translate(-152.77913,-279.16486)">
     <rect
-       style="fill:#2f2f2f;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:1"
+       style="fill:#c5e4ff;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:1"
        id="rect2998"
        width="434.87067"
        height="299.88904"
@@ -148,7 +148,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2996"
-       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:4.7999959px;word-spacing:0px;fill:#ff5200;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:4.79999589999999987px;word-spacing:0px;fill:#ff6100;fill-opacity:1;stroke:none;font-family:Sans"
        transform="translate(171.57697,278.33853)"><flowRegion
          id="flowRegion2998"><rect
            id="rect3000"
@@ -156,10 +156,10 @@
            height="41.07143"
            x="85.714287"
            y="247.15817"
-           style="letter-spacing:4.7999959px;fill:#ff5200;fill-opacity:1" /></flowRegion><flowPara
+           style="letter-spacing:4.79999589999999987px;fill:#ff6100;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3002"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:4.7999959px;fill:#ff5200;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">jQuery   <flowSpan
-   style="font-weight:normal;fill:#ff5200;fill-opacity:1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:4.79999589999999987px;fill:#ff6100;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">jQuery   <flowSpan
+   style="font-weight:normal;fill:#ff6100;fill-opacity:1"
    id="flowSpan3772">plugin</flowSpan></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;opacity:1"
@@ -171,6 +171,6 @@
          sodipodi:role="line"
          id="tspan3776"
          x="225.05647"
-         y="268.52054">  </tspan></text>
+         y="268.52054" /></text>
   </g>
 </svg>

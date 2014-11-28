@@ -2,7 +2,7 @@
 #### Light (spif < 1 Kb) and sample jQuery plugin for sprite animations
 
 ### 1.Getting Started
-Load jQuery(1.7+) and include spif plugin
+Load jQuery and include spif plugin
 
 ```html
 <script src="jquery.js"></script>
@@ -34,6 +34,7 @@ $(".animation").spif({
     frame:    array         // Sizes frame [width, height]
 
     frames:   int           // Count frames
+
 
     /* Extanded */
 

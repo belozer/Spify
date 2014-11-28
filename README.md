@@ -1,6 +1,6 @@
 ![alt tag](https://raw.github.com/belozyorcev/jquery.spif/master/img/spif-logo-light-434x300.png)
 ### Description
-Light (spif < 1 Kb) and sample jQuery plugin for sprite animations
+Light (spif < 2 Kb) and sample jQuery plugin for sprite animations
 
 ### 1.Getting Started
 Load jQuery and include spif plugin
@@ -14,27 +14,41 @@ Load jQuery and include spif plugin
 ```html
 <div class="animation"></div>
 ```
-### 3.Call the plugin
-Now call the spif initializer function and your animation is ready.
+or with data-* options
 
+```html
+<div class="animation"
+    data-size="100,100"
+    data-count="4"
+    data-duration="500"
+    data-url="sprite.png">
+</div>
+```
+### 3.Call the plugin
+With JS params
 ```js
 $(".animation").spif({
-    frame: [100, 100],
-    frames: 4,
+    size: [100, 100],
+    count: 4,
     duration: 500,
     url: 'sprite.png'
 });
 ```
-
+If is set data-* options initialize animation very easy
+```js
+$(".animation").spif();
+```
 ### Options
 ```js
     /* Required */
 
     url:      string        // Url to sprite image
 
-    frame:    array         // Sizes frame [width, height]
+    size:     array         // Size frame
+                            // js: [width, height]
+                            // html: "width, height"
 
-    frames:   int           // Count frames
+    count:    int           // Count frames
 
 
     /* Extanded */
@@ -42,8 +56,10 @@ $(".animation").spif({
     duration: int           // Duration for all frames
                             // Default: 300
 
-    framesDuration: object  // Duration for individual frames
-                            // Example: {1: 300, 3: 2000}
+    durations: object       // Duration for individual frames
+                            // Example
+                            // js: {1: 300, 3: 2000}
+                            // html: "1: 300, 3: 2000"
 
     vector:   string        // Position frames in sprite (vertical or horizontal)
                             // Default: vertical

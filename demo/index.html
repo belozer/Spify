@@ -4,20 +4,30 @@
     <title>jQuery.spif - demo page</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/jquery.spif.min.js"></script>
+    <script type="text/javascript" src="../src/jquery.spif.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <div class="spif"></div>
+    <div class="spif-dataparams"
+        data-size="434,300"
+        data-url="spif-sprite.png"
+        data-duration="100"
+        data-count="4"
+        data-durations="1:3000, 4:500"
+        data-vector="vertical">
+    </div>
 </body>
 
 <script type="text/javascript">
     $('.spif').spif({
-        frame: [434, 300],
+        size: [434, 300],
         duration: 100,
-        frames: 4,
-        framesDuration: {1: 300, 4: 500},
+        count: 4,
+        durations: {1: 300, 4: 500},
         url: 'spif-sprite.png'
     });
+
+    $('.spif-dataparams').spif();
 </script>
 </html>

@@ -1,0 +1,33 @@
+{
+    "name": "spif",
+    "title": "Spif",
+    "description": "Light (spif < 1 Kb) and sample jQuery plugin for sprite animations",
+    "keywords": [
+        "css",
+        "sprites",
+        "animation",
+        "ui"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Sergey Belozyorcev",
+        "url": "https://github.com/belozyorcev/jquery.spif"
+    },
+    "maintainers": [
+        {
+            "name": "Sergey Belozyorcev",
+            "email": "nextdrift@gmail.com",
+            "url": "https://vk.com/s.belozyorcev"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/belozyorcev/jquery.spif/blob/master/LICENSE-MIT"
+        }
+    ],
+    "bugs": "https://github.com/belozyorcev/jquery.spif/issues",
+    "dependencies": {
+        "jquery": ">=1.3"
+    }
+}

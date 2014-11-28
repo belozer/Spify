@@ -6,7 +6,7 @@ Load jQuery and include spif plugin
 
 ```html
 <script src="jquery.js"></script>
-<script src="jquery.spif.js"></script>
+<script src="jquery.spif.min.js"></script>
 ```
 ### 2.Set up your HTML
 

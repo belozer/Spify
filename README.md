@@ -20,25 +20,33 @@ Now call the spif initializer function and your animation is ready.
 $(".animation").spif({
     frame: [100, 100],
     frames: 4,
-    fps: 5,
+    duration: 500,
     url: 'sprite.png'
 });
 ```
 
-### Settings
+### Options
 ```js
-    frame:  array     // Sizes frame [width, height]
+    /* Required */
 
-    frames: int       // Total count frames.
-                      // Default: 1
+    url:      string        // Url to sprite image
 
-    fps:    int       // Speed animation.
-                      // Default: 5
+    frame:    array         // Sizes frame [width, height]
 
-    url:    string    // Url to sprite image
 
-    vector: string    // Position frames in sprite (vertical or horizontal).
-                      // Default: vertical
+    frames:   int           // Count frames
+                            // Default: 1
+
+    /* Extanded */
+
+    duration: int           // Duration for all frames
+                            // Default: 300
+
+    framesDuration: object  // Duration for individual frames
+                            // Example: {1: 300, 3: 2000}
+
+    vector:   string        // Position frames in sprite (vertical or horizontal)
+                            // Default: vertical
 ```
 
 ### Design sprite

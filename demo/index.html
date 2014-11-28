@@ -12,6 +12,12 @@
 </body>
 
 <script type="text/javascript">
-    $('.spif').spif({frame: [100, 100], fps: 5, frames: 4, url: 'sprite.png'});
+    $('.spif').spif({
+        frame: [100, 100],
+        duration: 100,
+        frames: 4,
+        framesDuration: {1: 3000,  3: 2000 },
+        url: 'sprite.png'
+    });
 </script>
 </html>

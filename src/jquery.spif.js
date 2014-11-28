@@ -3,14 +3,14 @@
 $.fn.spif = function( options ) {
 
     var settings = $.extend( {
-        'fps'    : 5,
-        'frames' : 1,
-        'url'    : '',
-        'frame'  : [100, 100],
+        'fps'      : 5,
+        'frames'   : 1,
+        'url'      : '',
+        'duration' : 300,
+        'frame'    : [100, 100],
+        'framesDuration' : {},
         'vector' : 'vertical'
     }, options);
-
-    var time = Math.floor( 1000 / settings.fps );
 
     return this.each(function() {
 
@@ -18,6 +18,7 @@ $.fn.spif = function( options ) {
 
         var currentIndex = 0;
         var bgPos;
+        var duration = settings.duration;
 
         function circle () {
             currentIndex += 1;
@@ -30,8 +31,13 @@ $.fn.spif = function( options ) {
                 bgPos = -settings.frame[0] * currentIndex + 'px 0px';
             }
 
-            console.log(bgPos);
             el.css('background-position', bgPos );
+
+            if ((duration = settings.framesDuration[currentIndex + 1]) === undefined) {
+                duration = settings.duration;
+            }
+
+            setTimeout(circle, duration);
         }
 
         $(this).css({
@@ -40,7 +46,7 @@ $.fn.spif = function( options ) {
             background: 'url(' + settings.url + ')'
         });
 
-        setInterval(circle, time);
+        setTimeout(circle, duration);
 
     });
 

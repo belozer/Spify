@@ -1,7 +1,11 @@
 body {
-    background: #555;
+    background: #222;
 }
 
 .spif {
-    background: white;
+    position: absolute;
+    left: 50%;
+    /*top: 50%;*/
+    margin-left: -217px;
+    /*margin-top: -150px;*/
 }

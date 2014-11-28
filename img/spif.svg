@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="434.36557"
+   height="300.01532"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="/home/sergey/projects/jQuery.spif/spif-logo-434x300.png"
+   inkscape:export-xdpi="89.924255"
+   inkscape:export-ydpi="89.924255"
+   sodipodi:docname="spif.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="276.42373"
+     inkscape:cy="-105.10968"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-152.77913,-279.16486)">
+    <rect
+       style="fill:#2f2f2f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2998"
+       width="434.87067"
+       height="299.88904"
+       x="152.77913"
+       y="279.29114"
+       ry="23.643206" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="361.63461"
+           height="150.51273"
+           x="138.3909"
+           y="278.58533"
+           style="font-size:36px" /></flowRegion><flowPara
+         id="flowPara2991" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2777cb;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+       transform="translate(27.151567,3.4488765)"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="374.76654"
+           height="193.94923"
+           x="204.05081"
+           y="291.71732"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2777cb;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace Bold" /></flowRegion><flowPara
+         id="flowPara2999"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2777cb;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Spif</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="opacity:0.175;fill:#ff6100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3769"
+       sodipodi:cx="249.64285"
+       sodipodi:cy="505.57648"
+       sodipodi:rx="14.642858"
+       sodipodi:ry="14.642858"
+       d="m 264.28571,505.57648 c 0,8.08702 -6.55583,14.64285 -14.64286,14.64285 -8.08702,0 -14.64285,-6.55583 -14.64285,-14.64285 0,-8.08703 6.55583,-14.64286 14.64285,-14.64286 8.08703,0 14.64286,6.55583 14.64286,14.64286 z"
+       transform="translate(4.2857167,-8.1096902)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.175;fill:#ff6100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3769-8"
+       sodipodi:cx="249.64285"
+       sodipodi:cy="505.57648"
+       sodipodi:rx="14.642858"
+       sodipodi:ry="14.642858"
+       d="m 264.28571,505.57648 c 0,8.08702 -6.55583,14.64285 -14.64286,14.64285 -8.08702,0 -14.64285,-6.55583 -14.64285,-14.64285 0,-8.08703 6.55583,-14.64286 14.64285,-14.64286 8.08703,0 14.64286,6.55583 14.64286,14.64286 z"
+       transform="translate(62.989952,-8.1096902)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff6100;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:1"
+       id="path3769-2"
+       sodipodi:cx="249.64285"
+       sodipodi:cy="505.57648"
+       sodipodi:rx="14.642858"
+       sodipodi:ry="14.642858"
+       d="m 264.28571,505.57648 c 0,8.08702 -6.55583,14.64285 -14.64286,14.64285 -8.08702,0 -14.64285,-6.55583 -14.64285,-14.64285 0,-8.08703 6.55583,-14.64286 14.64285,-14.64286 8.08703,0 14.64286,6.55583 14.64286,14.64286 z"
+       transform="translate(121.69419,-8.1096902)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.175;fill:#ff6100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3769-81"
+       sodipodi:cx="249.64285"
+       sodipodi:cy="505.57648"
+       sodipodi:rx="14.642858"
+       sodipodi:ry="14.642858"
+       d="m 264.28571,505.57648 c 0,8.08702 -6.55583,14.64285 -14.64286,14.64285 -8.08702,0 -14.64285,-6.55583 -14.64285,-14.64285 0,-8.08703 6.55583,-14.64286 14.64285,-14.64286 8.08703,0 14.64286,6.55583 14.64286,14.64286 z"
+       transform="translate(180.39843,-8.1096902)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.175;fill:#ff6100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3769-24"
+       sodipodi:cx="249.64285"
+       sodipodi:cy="505.57648"
+       sodipodi:rx="14.642858"
+       sodipodi:ry="14.642858"
+       d="m 264.28571,505.57648 c 0,8.08702 -6.55583,14.64285 -14.64286,14.64285 -8.08702,0 -14.64285,-6.55583 -14.64285,-14.64285 0,-8.08703 6.55583,-14.64286 14.64285,-14.64286 8.08703,0 14.64286,6.55583 14.64286,14.64286 z"
+       transform="translate(239.10267,-8.1096902)" />
+  </g>
+</svg>

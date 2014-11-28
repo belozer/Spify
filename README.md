@@ -1,13 +1,13 @@
 ![alt tag](https://raw.github.com/belozyorcev/jquery.spif/master/img/spif-logo-light-434x300.png)
 ### Description
-Light (spif < 2 Kb) and sample jQuery plugin for sprite animations
+Light (Spify < 2 Kb) and sample jQuery plugin for sprite animations
 
 ### 1.Getting Started
-Load jQuery and include spif plugin
+Load jQuery and include spify plugin
 
 ```html
 <script src="jquery.js"></script>
-<script src="jquery.spif.min.js"></script>
+<script src="jquery.spify.min.js"></script>
 ```
 ### 2.Set up your HTML
 
@@ -27,7 +27,7 @@ or with data-* options
 ### 3.Call the plugin
 With JS params
 ```js
-$(".animation").spif({
+$(".animation").spify({
     size: [100, 100],
     count: 4,
     duration: 500,
@@ -36,7 +36,7 @@ $(".animation").spif({
 ```
 If is set data-* options initialize animation very easy
 ```js
-$(".animation").spif();
+$(".animation").spify();
 ```
 ### Options
 ```js

@@ -1,6 +1,6 @@
 (function( $ ){
 
-$.fn.spif = function( options ) {
+$.fn.spify = function( options ) {
 
     var settings = $.extend( {
         'count'     : 1,

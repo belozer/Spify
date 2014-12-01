@@ -53,7 +53,7 @@ $(".animation").spify();
 
     /* Extanded */
 
-    duration: int           // Duration for all frames
+    duration: int           // Duration for each frame
                             // Default: 300
 
     durations: object       // Duration for individual frames
